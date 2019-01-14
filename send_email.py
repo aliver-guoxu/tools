@@ -4,7 +4,7 @@ from email.utils import formataddr
 
 sender='nengyuanguoxu@163.com'
 recivers=['nengyuanguoxu@126.com','dushanshan2011@126.com','quinn.du@philips.com']
-password='09343988265DSS'
+password='***************' #这里填写开启认证的密码
 
 def email(reciver):
     ret='ok'
